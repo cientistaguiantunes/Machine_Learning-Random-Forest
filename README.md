@@ -1,4 +1,4 @@
-Modelo de machine learning com algoritmo de floresta aleatõria para prever se uma pessoa utilizará ou não um serviço de seguro ou se ainda o veículo poderá ser furtado, a partir de três variáveis passadas como parâmetro, sendo elas: Idade, Preço do Seguro e CEP.
+Modelo de machine learning com algoritmo de floresta aleatória para prever se uma pessoa utilizará ou não um serviço de seguro ou se ainda o veículo poderá ser furtado, a partir de três variáveis passadas como parâmetro, sendo elas: Idade, Preço do Seguro e CEP.
 
 Link da Base de Dados = https://docs.google.com/spreadsheets/d/140uRka4bYhTixILqRr06mRd8LThwX_37/edit?usp=sharing&ouid=106626309807305578447&rtpof=true&sd=true
 
